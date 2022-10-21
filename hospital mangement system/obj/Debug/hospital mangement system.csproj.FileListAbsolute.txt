@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\hospital mangement system\bin\Debug\hospital mangement system.exe.config
+C:\Users\user\source\repos\hospital mangement system\bin\Debug\hospital mangement system.exe
+C:\Users\user\source\repos\hospital mangement system\bin\Debug\hospital mangement system.pdb
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital_mangement_system.Form1.resources
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital_mangement_system.Properties.Resources.resources
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.csproj.GenerateResource.cache
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.exe
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.pdb
+C:\Users\user\source\repos\hospital mangement system\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital mangement system.csproj.CopyComplete
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital_mangement_system.hotel.resources
+C:\Users\user\source\repos\hospital mangement system\obj\Debug\hospital_mangement_system.add_user_control.UserControl1.resources
+C:\Users\user\Desktop\hospital mangement system\bin\Debug\hospital mangement system.exe.config
+C:\Users\user\Desktop\hospital mangement system\bin\Debug\hospital mangement system.exe
+C:\Users\user\Desktop\hospital mangement system\bin\Debug\hospital mangement system.pdb
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital_mangement_system.add_user_control.UserControl1.resources
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital_mangement_system.Form1.resources
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital_mangement_system.hotel.resources
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital_mangement_system.Properties.Resources.resources
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.csproj.GenerateResource.cache
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.csproj.CopyComplete
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.exe
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.pdb
+C:\Users\user\Desktop\hospital mangement system\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital mangement system.exe.licenses
+C:\Users\user\Desktop\hospital mangement system\obj\Debug\hospital_mangement_system.add_user_control.UserControl2.resources
+C:\Users\user\Desktop\hospital mangement system\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
